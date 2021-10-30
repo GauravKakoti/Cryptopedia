@@ -1,6 +1,13 @@
 # Cryptopedia - Explore the World of Cryptocurrency
 
 
+### Cryptopedia is a Crypto Encyclopedia made with react, redux, and Rapid APIs. 
+
+[Cryptopedia-coin.netlify.app](https://cryptopedia-coin.netlify.app)
+
+
+
+
 ## Installation
 
 ```bash
